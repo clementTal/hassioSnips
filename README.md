@@ -23,4 +23,4 @@ intent_script: !include _external-conf/intents.yaml
 
 ## MAJ
 Pour que vous soyez toujours a jour, il n'est pas possible de faire un fork de l'assistant.
-Vous pouvez participer a la mise a jour de l'assistant en ajoutant des issues a ce dépo.
+Vous pouvez participer a la mise a jour de l'assistant en ajoutant vos explemples [ici](https://github.com/clementTal/hassioSnips/wiki).
